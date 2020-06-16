@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FirstTrial</string>
+
+    <string name="old">Старых:</string>
+    <string name="all">Всего</string>
+    <string name="nev">Новых:</string>
 </resources>
